@@ -29,5 +29,6 @@
  - Abra o arquivo "index.html".
 
 ---
+## Autor
 
-Feito por Luciano Ribeiro (https://github.com/LucianoR8)
+ - [Luciano Ribeiro](https://github.com/LucianoR8)
