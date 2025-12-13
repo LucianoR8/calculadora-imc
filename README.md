@@ -23,10 +23,7 @@
 
 ---
 
-### Como usar: 
-
- - Clone/Baixe o repositório;
- - Abra o arquivo "index.html".
+***Site:*** [Calculadora IMC](https://lucianor8.github.io/calculadora-imc/)
 
 ---
 ## Autor
